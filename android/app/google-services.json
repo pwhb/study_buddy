@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487209147303",
+    "project_id": "flutter-study-buddy-ae3ae",
+    "storage_bucket": "flutter-study-buddy-ae3ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487209147303:android:68c43991335c4fd5c0b482",
+        "android_client_info": {
+          "package_name": "com.strawberries.studybuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487209147303-uit2ukaf5ovvn9sp3f0bd4jf8e8k13ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSz1S6t0unb9Z-J7qVDdZk1dAQBf75K6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487209147303-uit2ukaf5ovvn9sp3f0bd4jf8e8k13ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
